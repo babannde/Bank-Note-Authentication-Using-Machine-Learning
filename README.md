@@ -26,3 +26,6 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 [Dataset Link](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)
 
+## Stack
+
+ - Python
